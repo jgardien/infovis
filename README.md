@@ -2,11 +2,10 @@
 Repositorio para el curso de Visualización ITBA
 ## h2
 ### h3
-Hola esto es un o *parrafo* **negro**
-* uno
-* dos
-1. uno
-2. dos
-3. tres
+Van a haber varios ejercicios *parrafo* **negro**
+* deptos_censo2010.txt: contiene datos del censo
 
-Ir a [Google] (www.google.com)
+1. uno
+
+
+Ir a [Mi Github] (github.com/jgardien)
